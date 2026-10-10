@@ -1,0 +1,5 @@
+# Scratch notes for iris-gateway
+
+- early sketches for the iris-gateway folder
+- this file is not part of the acceptance checklist
+- kept here so the draft work is not lost

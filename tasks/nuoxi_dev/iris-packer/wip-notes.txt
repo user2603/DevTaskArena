@@ -1,0 +1,5 @@
+# Scratch notes for iris-packer
+
+- early sketches for the iris-packer folder
+- this file is not part of the acceptance checklist
+- kept here so the draft work is not lost
