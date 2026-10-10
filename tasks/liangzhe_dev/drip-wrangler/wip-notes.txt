@@ -1,0 +1,5 @@
+# Scratch notes for drip-wrangler
+
+- early sketches for the drip-wrangler folder
+- this file is not part of the acceptance checklist
+- kept here so the draft work is not lost
