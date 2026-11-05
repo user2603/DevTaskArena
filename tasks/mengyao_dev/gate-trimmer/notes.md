@@ -1,0 +1,5 @@
+# Scratch notes for gate-trimmer
+
+- early sketches for the gate-trimmer folder
+- this file is not part of the acceptance checklist
+- kept here so the draft work is not lost
