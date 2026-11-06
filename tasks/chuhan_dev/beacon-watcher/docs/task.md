@@ -14,3 +14,6 @@ working directory, and fail loudly on bad input.
 
 (This folder is part of the DevTaskArena dev board; acceptance is judged
 by the current acceptance policy at the repo root, not by this brief.)
+
+--
+2026-11-06: minor wording touch-up (no functional change).
